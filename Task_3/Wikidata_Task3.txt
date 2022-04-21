@@ -1,0 +1,81 @@
+Article:  ( Q55967148 ) Origin and loss of nebula-captured hydrogen envelopes from ‘sub’- to ‘super-Earths’ in the habitable zone of Sun-like stars
+Series Ordinal:  1
+Name in Citation:  H. Lammer
+Name in Wikidata (Author String):  H. Lammer
+Sleeping for 6.6 seconds, 2022-04-21 11:42:23
+Adding qualifier ( P9687 author given names ):  H.
+Sleeping for 8.8 seconds, 2022-04-21 11:42:31
+Adding qualifier ( P9688 author last names ):  Lammer
+
+
+Series Ordinal:  2
+Name in Citation:  A. Stökl
+Name in Wikidata (Author String):  A. Stökl
+Sleeping for 7.7 seconds, 2022-04-21 11:42:42
+Adding qualifier ( P9687 author given names ):  A.
+Sleeping for 8.8 seconds, 2022-04-21 11:42:51
+Adding qualifier ( P9688 author last names ):  Stökl
+
+
+Series Ordinal:  3
+Name in Citation:  N. V. Erkaev
+Name in Wikidata (Author String):  N. V. Erkaev
+Sleeping for 7.5 seconds, 2022-04-21 11:43:02
+Adding qualifier ( P9687 author given names ):  N. V.
+Sleeping for 8.9 seconds, 2022-04-21 11:43:11
+Adding qualifier ( P9688 author last names ):  Erkaev
+
+
+Series Ordinal:  4
+Name in Citation:  E. A. Dorfi
+Name in Wikidata (Author String):  E. A. Dorfi
+Sleeping for 7.5 seconds, 2022-04-21 11:43:22
+Adding qualifier ( P9687 author given names ):  E. A.
+Sleeping for 8.9 seconds, 2022-04-21 11:43:31
+Adding qualifier ( P9688 author last names ):  Dorfi
+
+
+Series Ordinal:  5
+Name in Citation:  P. Odert
+Name in Wikidata (Author String):  P. Odert
+Sleeping for 7.5 seconds, 2022-04-21 11:43:42
+Adding qualifier ( P9687 author given names ):  P.
+Sleeping for 8.8 seconds, 2022-04-21 11:43:51
+Adding qualifier ( P9688 author last names ):  Odert
+
+
+Series Ordinal:  6
+Name in Citation:  M. Güdel
+Name in Wikidata (Author String):  M. Güdel
+Sleeping for 7.4 seconds, 2022-04-21 11:44:02
+Adding qualifier ( P9687 author given names ):  M.
+Sleeping for 8.9 seconds, 2022-04-21 11:44:11
+Adding qualifier ( P9688 author last names ):  Güdel
+
+
+Series Ordinal:  7
+Name in Citation:  Yu. N. Kulikov
+Name in Wikidata (Author String):  Yu. N. Kulikov
+Sleeping for 7.5 seconds, 2022-04-21 11:44:22
+Adding qualifier ( P9687 author given names ):  Yu. N.
+Sleeping for 8.6 seconds, 2022-04-21 11:44:31
+Adding qualifier ( P9688 author last names ):  Kulikov
+
+
+Series Ordinal:  9
+Name in Citation:  M. Leitzinger
+Name in Wikidata (Author String):  M. Leitzinger
+Sleeping for 7.3 seconds, 2022-04-21 11:44:42
+Adding qualifier ( P9687 author given names ):  M.
+Sleeping for 8.9 seconds, 2022-04-21 11:44:51
+Adding qualifier ( P9688 author last names ):  Leitzinger
+
+
+Series Ordinal:  8
+Name in Citation:  K. G. Kislyakova
+Name in Wikidata (Author item): Q83401636 Kristina G. Kislyakova
+Wikidata Stated as (P1932):  K. G. Kislyakova
+Sleeping for 7.2 seconds, 2022-04-21 11:45:02
+Adding qualifier ( P9687 author given names ):  K. G.
+Sleeping for 8.9 seconds, 2022-04-21 11:45:11
+Adding qualifier ( P9688 author last names ):  Kislyakova
