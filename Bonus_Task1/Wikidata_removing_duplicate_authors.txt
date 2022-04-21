@@ -1,0 +1,73 @@
+Item (Q58093180): The place of the Sun among the Sun-like stars
+
+The authors stored as strings are: 
+1.   A. I. Shapiro
+Series Ordinal 1
+2.   G. Cessateur
+Series Ordinal 0
+3.   G. Cessateur
+Duplicate entry found  G. Cessateur
+Sleeping for 6.3 seconds, 2022-04-21 12:35:22
+Series Ordinal 3
+
+The authors stored as items are: 
+1. Q58133639  Werner Schmutz
+Series Ordinal 0
+Stated as W. Schmutz
+
+
+2. Q56875832  Eugene Rozanov
+Series Ordinal 4
+Stated as E. Rozanov
+
+
+3. Q58133639  Werner Schmutz
+Duplicate entry found  Q58133639
+Sleeping for 3.2 seconds, 2022-04-21 12:35:35
+Series Ordinal 2
+Stated as 0
+
+
+Dictionaries with qualifiers found from duplicate values: 
+Author item (series ordinal)
+{'Q58133639': '2'}
+Author item (stated as)
+{}
+Author string (series ordinal)
+{'G. Cessateur': '3'}
+Adding qualifiers if any need to be added: 
+Sleeping for 6.9 seconds, 2022-04-21 12:35:41
+Adding qualifier ( P1545 series ordinal ):  2
+Sleeping for 8.6 seconds, 2022-04-21 12:35:50
+Adding qualifier ( P1545 series ordinal ):  3
+
+
+Article after dulpicate deletion.................
+ 
+Item (Q58093180): The place of the Sun among the Sun-like stars
+
+The authors stored as strings are: 
+1.   A. I. Shapiro
+Series Ordinal 1
+2.   G. Cessateur
+Series Ordinal 3
+
+The authors stored as items are: 
+1. Q58133639  Werner Schmutz
+Series Ordinal 2
+Stated as W. Schmutz
+
+
+2. Q56875832  Eugene Rozanov
+Series Ordinal 4
+Stated as E. Rozanov
+
+
+Dictionaries with qualifiers found from duplicate values: 
+Author item (series ordinal)
+{}
+Author item (stated as)
+{}
+Author string (series ordinal)
+{}
+Adding qualifiers if any need to be added: 
