@@ -14,8 +14,8 @@ In this task, I implemented the following:
 * Extracted author information using RegEx from citation, in BibTex format, from a url
 * Processed the extracted information accordingly as LaTex encoding of accented characters needs to be processed before displaying
 * Also processed non-breaking spaces and replaced them with regular spaces. Note: I could have simply achieved the same with unidecode but that resulted in changing accented characters (ü) into closest ASCII characters (u), which was undesirable
-* Printed the author names and compared the ones in the Wikidata item to the ones in citation (BibTex format. This section also satisfies the first part of Task 3 - loading the article item and printing the author information from it (with the qualifiers: {{P|P1545}} for authors as strings and {{P|P1545}} and {{P|P1932}} for authors as items). 
-* Added {{P|P9687}} and {{P|P9688}} to all the authors with the help of citation, as well as added {{P|P1932}} to authors stored as items if not found (did this directly as ADS had the same name in citation as the original publication)
+* Printed the author names and compared the ones in the Wikidata item to the ones in citation (BibTex format. This section also satisfies the first part of Task 3 - loading the article item and printing the author information from it (with the qualifiers: 'series ordinal' for authors as strings and 'series ordinal' and 'stated as' for authors as items). 
+* Added 'author given names' and 'author last names' to all the authors with the help of citation, as well as added 'stated as' to authors stored as items if not found (did this directly as ADS had the same name in citation as the original publication)
 
 # Bonus_Task1
 * Removed duplicate entries of authors (stored as items and strings)
