@@ -19,7 +19,7 @@ In this task, I implemented the following:
 
 # Bonus_Task1
 * Removed duplicate entries of authors (stored as items and strings)
-* Stored qualifiers from duplicate entries and added them in the only insatnce of that author item or author string remaining
+* Stored qualifiers from duplicate entries and added them in the only instance of that author item or author string remaining
   ## Discussion
   * This code works well for multiple cases that I have tried. It does take into account that the duplicate instance is added with the same value
   * Further extension of this bonus task can be to check if an author is stored as both item and string and removing duplicates accordingly
