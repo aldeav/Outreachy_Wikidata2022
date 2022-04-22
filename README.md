@@ -20,8 +20,9 @@ In this task, I implemented the following:
 # Bonus_Task1
 * Removed duplicate entries of authors (stored as items and strings)
 * Stored qualifiers from duplicate entries and added them in the only insatnce of that author item or author string remaining
+  ## Discussion
+  * This code works well for multiple cases that I have tried. It does take into account that the duplicate instance is added with the same value
+  * Further extension of this bonus task can be to check if an author is stored as both item and string and removing duplicates accordingly
+  * Another extension can be to add authors as items which have been added as strings. This will require cross-checking if there is an author item by the same name or    'Also known as'. The next step would be to search through their publications (maybe using ORCID) to find the title of the Wikidata article and confirm that they are indeed the author of this particular scientific article
 
-## Discussion
-* This code works well for multiple cases that I have tried. It does take into account that the duplicate instance is added with the same value
-* Further extension of this bonus task can be to check if an author is stored as both item and string and removing duplicates accordingly
-* Another extension can be to add authors as items which have been added as strings. This will require cross-checking if there is an author item by the same name or 'Also known as'. The next step would be to search through their publications (maybe using ORCID) to find the title of the Wikidata article and confirm that they are indeed the author of this particular scientific article
+
